@@ -1,0 +1,27 @@
+{
+  "game": "sandblocks",
+  "playlist_url": "https://www.youtube.com/playlist?list=PLIID-9pOOqY0",
+  "playlist_title": "Sand Blocks: Drop Puzzle",
+  "fetched_at": "2026-10-25T00:03:36.642447+00:00",
+  "total_videos": 592,
+  "single_levels": 591,
+  "range_videos": 0,
+  "unknown_videos": 1,
+  "level_min": 1,
+  "level_max": 600,
+  "missing_levels_in_range": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "images_downloaded": 591,
+  "images_failed": 1,
+  "webp_count": 1609,
+  "images_dir": "images/"
+}
